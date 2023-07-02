@@ -5,7 +5,7 @@
 
 Welcome to `TourMate`, your all-in-one travel companion designed to revolutionize your travel experiences. This state-of-the-art travel itinerary planner app is not just a tool, but a gateway to unforgettable adventures and experiences.
 
-With `TourMate`, you can unlock the full potential of any city you visit. Our app provides you with a meticulously curated list of the best places to visit, tailored to your unique interests and preferences. Whether you're a culture enthusiast, a food lover, or an adrenaline junkie, TourMate ensures your itinerary is packed with destinations that will make your heart.
+With `TourMate`, you can unlock the full potential of any city you visit. Our app provides you with a meticulously curated list of the best places to visit. Whether you're a culture enthusiast, a food lover, or an adrenaline junkie, TourMate ensures your itinerary is packed with destinations that will make your heart.
 
 Contents
 ---
