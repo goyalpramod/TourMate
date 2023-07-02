@@ -52,7 +52,7 @@ streamlit run app.py
 </li></br>
 <li>It provides you with the most efficient transportation options, helping you get around the city like a local.
 </li></br>
-<li>Connects you with the best travel guides in the city. 
+<li>Our application serves as your comprehensive guide, the only one you'll ever need. It's designed to provide you with all the necessary information and tools at your fingertips. With its user-friendly interface and extensive features, it simplifies your tasks and enhances your experience.
 </li></br>
 </ol>
 
