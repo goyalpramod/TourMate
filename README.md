@@ -81,5 +81,4 @@ streamlit run app.py
 
 [Demo and Presentation](https://drive.google.com/file/d/1b90WGUviDU9OBFq8XZwJm1st4Zlf4UZq/view?usp=sharing)
 
-<br> 
----------------------------------------------------------------> Thank You <---------------------------------------------------------------
+
